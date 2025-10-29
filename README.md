@@ -16,7 +16,7 @@ Perfect for inviting guests to events like **Henna, Bar/Bat Mitzvah,Brit, Birthd
 
 ##  How to use
 
-1. Run the Batch file and open your WhatsAppWeb — scan your QR code
+1. Run the Batchfile and open your WhatsAppWeb — scan your QR code
 2. Make sure your Excel file (INVENTATIONS_TO_FILL.xlsx) is ready and in the same directory 
 3. Open BAT_MITZVAH_FINAL and run the script
 4. The script will send messages one by one
